@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3C02-0958
+
+ Directory of C:\Users\DELL\Desktop\myproject
+
+02-01-2025  13:00    <DIR>          .
+02-01-2025  13:00    <DIR>          ..
+02-01-2025  13:00                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   7,603,396,608 bytes free
